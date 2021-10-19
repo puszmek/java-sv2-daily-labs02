@@ -1,7 +1,6 @@
 package day02;
 
 import java.util.Scanner;
-import java.util.SortedMap;
 
 public class Geometry {
 
